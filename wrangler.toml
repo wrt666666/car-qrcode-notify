@@ -6,3 +6,7 @@ compatibility_date = "2025-08-17"
 binding = "DB"
 database_name = "movecar-db"
 database_id = "095826e7-8f2b-4a6e-a97a-ef64a6b53a18"
+
+[[kv_namespaces]]
+binding = "DATA"
+id = "d876d8190fab45d4a74fa93d2c13ddba"
