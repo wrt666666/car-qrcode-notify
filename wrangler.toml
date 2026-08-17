@@ -5,4 +5,4 @@ compatibility_date = "2025-08-17"
 [[d1_databases]]
 binding = "DB"
 database_name = "movecar-db"
-database_id = ""  # 替换为你的D1数据库ID
+database_id = "095826e7-8f2b-4a6e-a97a-ef64a6b53a18"
